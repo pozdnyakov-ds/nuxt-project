@@ -1,8 +1,9 @@
 <template>
-<h1>Inspire page</h1>
+  <h1>About page</h1>
 </template>
 
 <script>
 export default {
+  layout: 'default'
 }
 </script>
